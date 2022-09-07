@@ -18,13 +18,13 @@
     "decrease-dynamic-zoom": {
       "description": "Decrease the simulated width",
       "suggested_key": {
-        "default": "Ctrl+Shift+8"
+        "default": "Ctrl+Shift+Left"
       }
     },
     "increase-dynamic-zoom": {
       "description": "Increase the simulated width",
       "suggested_key": {
-        "default": "Ctrl+Shift+9"
+        "default": "Ctrl+Shift+Right"
       }
     }
   },
